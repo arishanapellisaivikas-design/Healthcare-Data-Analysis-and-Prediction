@@ -1,0 +1,301 @@
+Patient_ID,Gender,Age,BMI,Glucose,Blood_Pressure,Insulin,Cholesterol,Heart_Rate,Treatment,Disease_Outcome,Diagnosis
+1,Male,61,20.4,140,75,129,155,107,Medication,0,Healthy
+2,Male,58,27.3,77,65,126,179,92,Diet Control,0,Healthy
+3,Male,66,32.3,177,74,244,270,77,Diet Control,1,Diabetes
+4,Male,65,27.3,141,69,125,315,81,Medication,1,Diabetes
+5,Female,45,20.1,158,98,150,131,106,Medication,0,Healthy
+6,Male,45,19.7,145,113,200,267,72,Medication,1,Diabetes
+7,Female,63,23.0,144,65,134,145,84,Regular Exercise,0,Healthy
+8,Female,61,36.4,111,83,196,173,102,Medication,0,Healthy
+9,Male,59,32.0,132,70,251,217,77,Insulin Therapy,0,Healthy
+10,Female,74,34.9,84,74,31,200,85,Medication,0,Healthy
+11,Female,34,38.1,150,73,270,221,101,Diet Control,1,Diabetes
+12,Female,37,21.1,137,107,234,269,85,Diet Control,0,Healthy
+13,Male,29,29.2,93,108,39,148,69,Regular Exercise,0,Healthy
+14,Male,59,19.4,167,98,254,255,76,Medication,1,Diabetes
+15,Female,64,37.5,138,109,189,148,78,Diet Control,1,Diabetes
+16,Female,50,18.1,137,92,106,249,66,Diet Control,0,Healthy
+17,Female,30,26.2,111,94,286,120,98,Regular Exercise,0,Healthy
+18,Male,22,20.5,162,116,172,181,63,Medication,0,Healthy
+19,Male,26,34.1,87,108,287,316,68,Regular Exercise,1,Diabetes
+20,Male,56,21.6,178,73,291,313,106,Insulin Therapy,1,Diabetes
+21,Male,46,39.9,165,88,279,235,67,Diet Control,1,Diabetes
+22,Male,25,25.4,128,97,127,121,64,Diet Control,0,Healthy
+23,Female,25,37.9,154,64,278,180,77,Diet Control,0,Healthy
+24,Male,55,20.9,191,75,257,224,72,Medication,1,Diabetes
+25,Male,63,27.5,178,86,254,306,63,Medication,1,Diabetes
+26,Female,46,34.0,97,75,113,168,94,Diet Control,0,Healthy
+27,Male,48,22.0,188,75,53,233,95,Medication,0,Healthy
+28,Female,62,40.0,73,65,136,162,86,Regular Exercise,0,Healthy
+29,Female,34,37.0,85,70,209,120,84,Regular Exercise,0,Healthy
+30,Male,39,27.3,194,69,112,195,73,Medication,0,Healthy
+31,Male,68,24.9,82,97,259,248,93,Medication,1,Diabetes
+32,Female,53,19.8,117,64,49,292,75,Medication,0,Healthy
+33,Female,57,23.4,80,99,56,227,102,Insulin Therapy,1,Diabetes
+34,Female,34,32.7,150,75,150,221,68,Regular Exercise,1,Diabetes
+35,Male,41,38.4,88,60,249,279,96,Medication,0,Healthy
+36,Female,55,22.7,137,68,193,137,75,Insulin Therapy,0,Healthy
+37,Female,31,27.6,147,99,285,122,102,Medication,0,Healthy
+38,Female,29,23.8,97,107,298,159,77,Diet Control,0,Healthy
+39,Male,66,25.5,137,92,265,184,63,Regular Exercise,0,Healthy
+40,Male,74,24.1,70,81,81,283,76,Regular Exercise,0,Healthy
+41,Male,56,33.5,72,67,53,296,69,Insulin Therapy,1,Diabetes
+42,Male,58,30.2,180,68,36,198,83,Insulin Therapy,1,Diabetes
+43,Male,34,33.0,96,82,223,278,107,Diet Control,0,Healthy
+44,Female,31,39.5,115,116,226,126,71,Regular Exercise,0,Healthy
+45,Female,72,32.7,133,77,96,299,66,Medication,1,Diabetes
+46,Male,75,28.4,121,112,250,209,79,Diet Control,0,Healthy
+47,Female,22,32.5,172,81,157,137,109,Insulin Therapy,0,Healthy
+48,Male,62,29.2,154,120,29,149,76,Insulin Therapy,1,Diabetes
+49,Male,23,20.4,181,82,175,231,98,Regular Exercise,0,Healthy
+50,Male,57,22.2,81,105,238,120,93,Insulin Therapy,0,Healthy
+51,Female,48,19.5,154,99,175,289,67,Insulin Therapy,1,Diabetes
+52,Male,63,27.0,173,104,166,261,68,Regular Exercise,1,Diabetes
+53,Male,63,38.7,114,99,169,223,95,Insulin Therapy,1,Diabetes
+54,Male,39,22.6,152,89,241,233,103,Regular Exercise,0,Healthy
+55,Female,71,37.8,113,102,58,192,92,Medication,1,Diabetes
+56,Male,73,38.9,130,103,173,177,72,Medication,1,Diabetes
+57,Male,23,23.4,191,99,52,236,86,Regular Exercise,1,Diabetes
+58,Male,52,26.8,107,101,17,312,109,Regular Exercise,1,Diabetes
+59,Female,35,21.9,188,63,300,183,67,Diet Control,0,Healthy
+60,Female,72,28.2,151,120,241,276,106,Regular Exercise,1,Diabetes
+61,Female,31,34.4,191,88,147,312,75,Regular Exercise,1,Diabetes
+62,Female,61,23.3,182,64,161,180,77,Insulin Therapy,0,Healthy
+63,Male,55,19.8,108,74,211,297,69,Medication,0,Healthy
+64,Female,47,27.0,189,86,46,172,86,Medication,0,Healthy
+65,Female,75,37.4,167,90,18,210,79,Regular Exercise,1,Diabetes
+66,Female,55,34.4,126,91,127,189,87,Medication,1,Diabetes
+67,Male,45,25.4,173,106,99,239,68,Regular Exercise,1,Diabetes
+68,Male,58,30.4,76,65,234,154,89,Medication,0,Healthy
+69,Female,37,26.3,124,89,182,206,108,Insulin Therapy,0,Healthy
+70,Male,69,38.9,177,76,56,240,61,Insulin Therapy,1,Diabetes
+71,Male,35,32.3,80,108,30,183,72,Diet Control,0,Healthy
+72,Female,36,20.8,99,96,126,239,104,Insulin Therapy,0,Healthy
+73,Male,31,31.3,99,109,98,199,66,Insulin Therapy,0,Healthy
+74,Male,57,32.9,166,85,116,139,97,Medication,1,Diabetes
+75,Female,65,35.0,100,110,36,208,94,Insulin Therapy,1,Diabetes
+76,Female,25,29.1,157,60,230,245,66,Insulin Therapy,0,Healthy
+77,Female,61,37.6,187,105,93,231,71,Regular Exercise,1,Diabetes
+78,Female,50,27.6,138,80,140,142,77,Diet Control,0,Healthy
+79,Male,69,28.2,167,81,29,246,80,Regular Exercise,1,Diabetes
+80,Female,34,25.8,136,81,158,272,104,Medication,0,Healthy
+81,Male,54,38.9,91,75,223,245,95,Regular Exercise,1,Diabetes
+82,Male,62,33.7,184,110,23,143,78,Regular Exercise,1,Diabetes
+83,Female,65,23.4,164,90,298,255,82,Insulin Therapy,1,Diabetes
+84,Male,43,33.5,139,79,143,179,67,Insulin Therapy,0,Healthy
+85,Female,28,34.3,117,72,125,309,90,Insulin Therapy,0,Healthy
+86,Male,27,36.3,145,74,199,165,79,Diet Control,0,Healthy
+87,Female,38,19.0,83,95,164,298,68,Medication,0,Healthy
+88,Male,21,30.6,190,90,240,207,71,Insulin Therapy,0,Healthy
+89,Male,51,20.5,86,85,266,138,96,Diet Control,0,Healthy
+90,Female,30,35.8,147,65,142,150,95,Diet Control,0,Healthy
+91,Female,70,29.5,185,118,241,196,97,Insulin Therapy,1,Diabetes
+92,Female,57,31.7,95,120,121,280,73,Medication,1,Diabetes
+93,Female,31,23.3,89,70,16,224,88,Insulin Therapy,0,Healthy
+94,Male,23,23.1,142,104,247,138,103,Insulin Therapy,0,Healthy
+95,Male,71,35.4,120,87,73,259,74,Insulin Therapy,1,Diabetes
+96,Female,73,21.1,85,70,172,272,107,Regular Exercise,0,Healthy
+97,Female,28,28.3,147,104,221,189,92,Regular Exercise,0,Healthy
+98,Male,26,31.2,180,107,180,274,76,Medication,1,Diabetes
+99,Male,35,39.2,75,108,152,267,62,Regular Exercise,1,Diabetes
+100,Male,54,32.3,141,71,238,282,91,Regular Exercise,1,Diabetes
+101,Female,43,27.0,152,102,68,161,81,Regular Exercise,0,Healthy
+102,Male,39,32.6,172,112,296,129,89,Insulin Therapy,1,Diabetes
+103,Female,37,25.1,173,115,278,120,102,Regular Exercise,0,Healthy
+104,Male,24,22.1,162,99,270,280,88,Diet Control,1,Diabetes
+105,Male,38,30.1,143,88,263,151,61,Diet Control,0,Healthy
+106,Male,40,30.1,174,65,130,149,89,Diet Control,0,Healthy
+107,Female,52,38.5,144,92,154,226,90,Diet Control,1,Diabetes
+108,Male,50,30.1,168,72,275,311,68,Insulin Therapy,1,Diabetes
+109,Female,70,35.4,176,81,274,188,60,Insulin Therapy,1,Diabetes
+110,Female,74,30.9,195,115,91,234,94,Insulin Therapy,1,Diabetes
+111,Male,42,30.1,166,89,179,168,104,Regular Exercise,0,Healthy
+112,Female,35,36.8,175,62,177,310,90,Regular Exercise,1,Diabetes
+113,Female,63,35.4,108,91,33,152,92,Medication,1,Diabetes
+114,Male,75,27.7,186,60,88,224,101,Medication,1,Diabetes
+115,Female,51,35.2,137,81,218,286,65,Regular Exercise,1,Diabetes
+116,Male,41,31.8,194,115,292,129,99,Diet Control,1,Diabetes
+117,Male,61,33.1,143,74,61,231,66,Regular Exercise,1,Diabetes
+118,Female,31,33.3,77,62,181,134,78,Insulin Therapy,0,Healthy
+119,Male,48,21.2,175,96,107,163,71,Regular Exercise,0,Healthy
+120,Female,60,33.0,197,118,88,179,89,Regular Exercise,1,Diabetes
+121,Male,37,32.7,189,117,162,293,94,Medication,1,Diabetes
+122,Female,49,38.8,146,100,232,296,76,Insulin Therapy,1,Diabetes
+123,Female,33,40.0,193,66,136,217,96,Insulin Therapy,0,Healthy
+124,Male,65,24.5,171,77,19,264,103,Regular Exercise,1,Diabetes
+125,Male,74,37.9,143,109,132,275,82,Diet Control,1,Diabetes
+126,Male,60,23.5,105,100,64,280,101,Insulin Therapy,1,Diabetes
+127,Female,71,27.7,163,106,82,143,78,Regular Exercise,1,Diabetes
+128,Female,32,22.4,163,93,271,189,70,Regular Exercise,0,Healthy
+129,Male,72,24.5,156,111,73,239,64,Diet Control,1,Diabetes
+130,Female,64,33.9,171,114,300,213,65,Medication,1,Diabetes
+131,Female,37,29.8,186,83,149,269,84,Medication,0,Healthy
+132,Male,64,23.1,76,99,182,276,74,Regular Exercise,1,Diabetes
+133,Female,65,24.6,174,67,86,131,62,Regular Exercise,0,Healthy
+134,Female,28,20.1,104,84,247,214,102,Diet Control,0,Healthy
+135,Female,47,32.4,195,99,223,191,62,Diet Control,1,Diabetes
+136,Female,49,27.8,130,114,200,145,103,Insulin Therapy,0,Healthy
+137,Male,24,26.8,118,67,247,143,102,Medication,0,Healthy
+138,Male,24,35.3,132,68,120,137,108,Diet Control,0,Healthy
+139,Female,73,37.1,154,109,90,272,60,Diet Control,1,Diabetes
+140,Female,29,29.9,114,67,28,153,60,Diet Control,0,Healthy
+141,Female,58,25.1,114,76,41,152,107,Medication,0,Healthy
+142,Male,68,19.4,184,109,200,251,97,Regular Exercise,1,Diabetes
+143,Male,53,22.9,81,106,281,197,89,Medication,0,Healthy
+144,Female,51,36.6,179,103,70,245,105,Medication,1,Diabetes
+145,Female,26,25.1,107,64,79,190,99,Regular Exercise,0,Healthy
+146,Male,59,29.7,186,92,235,145,110,Diet Control,1,Diabetes
+147,Female,48,27.9,128,86,188,236,85,Medication,0,Healthy
+148,Male,41,27.4,135,83,93,295,90,Medication,0,Healthy
+149,Male,74,19.9,180,66,205,153,95,Insulin Therapy,0,Healthy
+150,Female,63,20.7,160,115,231,304,63,Insulin Therapy,1,Diabetes
+151,Male,43,20.3,199,73,94,288,90,Medication,0,Healthy
+152,Female,43,36.6,164,67,157,266,74,Medication,1,Diabetes
+153,Female,59,38.4,138,61,107,189,104,Insulin Therapy,0,Healthy
+154,Male,43,18.1,106,96,220,137,69,Medication,0,Healthy
+155,Female,68,29.7,166,86,247,207,70,Insulin Therapy,0,Healthy
+156,Male,67,25.1,91,116,41,159,70,Medication,0,Healthy
+157,Male,38,27.7,178,91,241,226,77,Medication,1,Diabetes
+158,Female,43,27.5,142,103,264,254,102,Medication,1,Diabetes
+159,Male,35,26.7,84,60,119,197,73,Insulin Therapy,0,Healthy
+160,Female,39,25.2,71,91,235,164,68,Diet Control,0,Healthy
+161,Female,53,30.3,160,64,218,309,62,Medication,1,Diabetes
+162,Female,50,38.3,150,96,234,266,85,Insulin Therapy,1,Diabetes
+163,Male,28,26.9,153,70,250,296,83,Regular Exercise,0,Healthy
+164,Female,75,20.3,181,97,220,254,65,Insulin Therapy,1,Diabetes
+165,Male,68,25.5,155,109,101,139,92,Diet Control,1,Diabetes
+166,Male,70,25.7,107,75,67,157,76,Diet Control,0,Healthy
+167,Female,59,21.4,89,71,267,238,108,Insulin Therapy,0,Healthy
+168,Female,61,25.0,182,64,255,233,100,Insulin Therapy,1,Diabetes
+169,Male,58,19.2,199,64,173,238,88,Medication,1,Diabetes
+170,Female,44,36.3,89,101,61,277,98,Regular Exercise,1,Diabetes
+171,Female,58,30.2,80,88,111,202,98,Diet Control,0,Healthy
+172,Male,24,27.9,157,105,58,249,101,Medication,1,Diabetes
+173,Female,36,33.6,182,93,282,276,70,Insulin Therapy,1,Diabetes
+174,Female,39,26.5,156,103,41,281,101,Medication,1,Diabetes
+175,Male,42,20.1,168,78,144,305,102,Insulin Therapy,0,Healthy
+176,Female,26,30.8,106,118,194,199,101,Diet Control,0,Healthy
+177,Female,59,33.6,91,79,207,284,110,Diet Control,1,Diabetes
+178,Male,63,33.5,93,101,231,250,83,Insulin Therapy,1,Diabetes
+179,Male,40,22.0,124,81,263,169,74,Diet Control,0,Healthy
+180,Male,25,24.5,95,92,291,309,93,Insulin Therapy,0,Healthy
+181,Male,70,31.6,166,69,98,166,104,Regular Exercise,1,Diabetes
+182,Female,23,27.0,130,88,160,312,107,Diet Control,0,Healthy
+183,Female,55,23.3,190,117,114,214,103,Regular Exercise,1,Diabetes
+184,Male,70,24.2,167,92,285,227,70,Diet Control,1,Diabetes
+185,Male,37,19.1,193,115,205,261,66,Insulin Therapy,1,Diabetes
+186,Male,26,34.8,139,88,277,157,87,Diet Control,0,Healthy
+187,Female,73,27.9,159,119,28,226,63,Insulin Therapy,1,Diabetes
+188,Male,36,26.5,90,83,129,127,80,Insulin Therapy,0,Healthy
+189,Female,71,21.2,79,78,256,298,68,Regular Exercise,0,Healthy
+190,Female,60,18.1,90,61,146,175,69,Medication,0,Healthy
+191,Female,70,24.3,147,67,39,181,86,Medication,0,Healthy
+192,Male,28,36.4,197,98,289,124,100,Diet Control,1,Diabetes
+193,Male,39,27.4,160,75,228,167,102,Insulin Therapy,0,Healthy
+194,Female,25,39.0,199,110,274,261,61,Regular Exercise,1,Diabetes
+195,Male,23,32.0,165,76,23,211,110,Insulin Therapy,0,Healthy
+196,Female,36,34.1,96,109,185,154,62,Insulin Therapy,0,Healthy
+197,Male,73,32.1,188,104,260,281,71,Medication,1,Diabetes
+198,Male,66,35.1,187,62,165,171,62,Medication,1,Diabetes
+199,Male,41,38.5,171,112,293,241,76,Diet Control,1,Diabetes
+200,Female,39,25.9,82,115,184,189,67,Regular Exercise,0,Healthy
+201,Female,46,34.4,168,81,110,247,104,Insulin Therapy,1,Diabetes
+202,Male,72,29.4,91,106,232,140,87,Insulin Therapy,0,Healthy
+203,Female,41,20.3,153,102,166,198,88,Diet Control,0,Healthy
+204,Female,65,27.8,184,62,195,277,87,Medication,1,Diabetes
+205,Male,25,32.8,173,83,277,311,103,Medication,1,Diabetes
+206,Female,30,36.7,182,62,79,137,75,Insulin Therapy,0,Healthy
+207,Female,45,38.9,78,98,93,293,88,Insulin Therapy,1,Diabetes
+208,Female,49,34.8,105,93,202,221,80,Diet Control,1,Diabetes
+209,Male,28,18.6,117,91,280,219,95,Insulin Therapy,0,Healthy
+210,Male,70,23.7,184,73,161,297,91,Medication,1,Diabetes
+211,Female,29,36.8,185,71,242,142,103,Insulin Therapy,0,Healthy
+212,Male,66,19.4,144,117,168,160,105,Insulin Therapy,1,Diabetes
+213,Female,53,22.9,121,110,86,180,110,Medication,0,Healthy
+214,Male,44,30.2,164,89,297,153,99,Medication,0,Healthy
+215,Male,40,26.8,192,93,225,316,86,Diet Control,1,Diabetes
+216,Male,41,32.1,185,89,279,208,68,Diet Control,0,Healthy
+217,Female,48,29.1,84,113,78,252,69,Diet Control,0,Healthy
+218,Female,31,25.1,127,82,280,192,65,Diet Control,0,Healthy
+219,Male,61,39.0,140,68,170,277,94,Diet Control,1,Diabetes
+220,Male,58,38.7,109,70,187,264,62,Medication,1,Diabetes
+221,Female,23,38.9,137,101,122,316,96,Medication,1,Diabetes
+222,Female,52,37.6,144,101,169,243,75,Insulin Therapy,1,Diabetes
+223,Female,50,19.6,85,70,240,226,90,Diet Control,0,Healthy
+224,Female,42,31.3,150,115,178,307,82,Diet Control,1,Diabetes
+225,Female,69,26.2,97,80,138,239,67,Regular Exercise,0,Healthy
+226,Male,36,21.1,82,78,211,277,86,Diet Control,0,Healthy
+227,Female,73,25.2,150,72,96,247,92,Regular Exercise,1,Diabetes
+228,Male,40,28.9,93,120,216,249,89,Diet Control,0,Healthy
+229,Female,58,25.8,82,78,268,272,101,Insulin Therapy,0,Healthy
+230,Female,55,18.2,97,87,83,187,106,Regular Exercise,0,Healthy
+231,Female,44,19.0,83,96,114,212,95,Medication,0,Healthy
+232,Female,45,29.1,141,112,75,152,66,Insulin Therapy,0,Healthy
+233,Female,71,39.7,163,108,88,170,98,Medication,1,Diabetes
+234,Male,23,18.9,155,111,257,252,89,Diet Control,1,Diabetes
+235,Female,41,38.5,151,70,216,277,107,Insulin Therapy,1,Diabetes
+236,Female,53,36.2,195,105,168,241,61,Insulin Therapy,1,Diabetes
+237,Male,64,20.4,176,97,172,305,104,Regular Exercise,1,Diabetes
+238,Male,37,39.3,128,106,41,269,90,Regular Exercise,1,Diabetes
+239,Female,30,36.1,132,62,71,168,61,Insulin Therapy,0,Healthy
+240,Female,47,21.3,122,86,271,318,99,Medication,0,Healthy
+241,Female,66,21.0,123,95,181,289,90,Insulin Therapy,1,Diabetes
+242,Female,32,28.1,157,94,196,293,109,Regular Exercise,1,Diabetes
+243,Female,33,39.1,141,95,167,177,79,Diet Control,1,Diabetes
+244,Female,65,33.5,151,90,193,263,110,Insulin Therapy,1,Diabetes
+245,Male,28,30.6,167,117,217,208,109,Insulin Therapy,1,Diabetes
+246,Female,23,24.3,90,82,241,287,76,Diet Control,0,Healthy
+247,Male,33,36.2,139,119,154,155,66,Diet Control,0,Healthy
+248,Female,24,32.7,127,100,134,133,66,Insulin Therapy,0,Healthy
+249,Female,66,28.4,105,60,296,160,86,Regular Exercise,0,Healthy
+250,Male,62,22.4,143,80,161,285,63,Diet Control,1,Diabetes
+251,Male,55,34.3,79,118,104,226,71,Regular Exercise,1,Diabetes
+252,Male,71,28.9,144,116,34,122,79,Insulin Therapy,1,Diabetes
+253,Female,39,28.0,196,116,83,249,89,Diet Control,1,Diabetes
+254,Male,72,20.5,111,106,249,285,76,Medication,1,Diabetes
+255,Female,68,25.4,145,96,113,164,99,Regular Exercise,1,Diabetes
+256,Female,53,25.2,172,102,63,167,68,Insulin Therapy,1,Diabetes
+257,Female,36,18.2,168,75,243,312,77,Insulin Therapy,0,Healthy
+258,Male,58,33.9,72,76,199,297,75,Medication,1,Diabetes
+259,Female,50,24.7,173,103,272,300,109,Medication,1,Diabetes
+260,Female,61,38.2,145,83,128,176,68,Diet Control,1,Diabetes
+261,Male,50,34.5,165,86,296,240,108,Diet Control,1,Diabetes
+262,Female,64,34.6,90,93,243,255,105,Medication,1,Diabetes
+263,Female,57,20.5,199,72,289,158,70,Regular Exercise,0,Healthy
+264,Female,28,33.0,195,65,276,234,63,Diet Control,1,Diabetes
+265,Male,53,27.1,84,95,251,292,79,Regular Exercise,1,Diabetes
+266,Female,37,36.0,125,97,52,131,87,Medication,0,Healthy
+267,Female,55,39.9,87,119,256,128,78,Diet Control,1,Diabetes
+268,Female,70,21.0,177,83,210,234,84,Medication,1,Diabetes
+269,Female,64,39.2,104,101,193,150,71,Diet Control,1,Diabetes
+270,Female,67,39.5,70,108,26,196,89,Regular Exercise,1,Diabetes
+271,Male,73,23.1,187,82,94,190,72,Medication,0,Healthy
+272,Male,72,32.5,74,75,120,137,66,Regular Exercise,0,Healthy
+273,Male,59,32.8,82,75,37,222,88,Diet Control,1,Diabetes
+274,Female,69,37.0,84,68,272,194,74,Insulin Therapy,0,Healthy
+275,Female,36,24.6,106,102,281,176,86,Insulin Therapy,0,Healthy
+276,Male,24,30.2,114,100,233,262,91,Insulin Therapy,1,Diabetes
+277,Female,62,32.8,151,104,228,224,69,Regular Exercise,1,Diabetes
+278,Male,32,34.6,191,75,130,196,105,Regular Exercise,0,Healthy
+279,Male,24,30.4,176,95,286,154,84,Insulin Therapy,1,Diabetes
+280,Male,34,25.3,90,119,245,214,65,Medication,0,Healthy
+281,Male,38,26.3,80,115,52,168,108,Regular Exercise,0,Healthy
+282,Male,34,37.1,155,79,22,174,72,Regular Exercise,0,Healthy
+283,Female,36,33.3,122,85,137,261,80,Regular Exercise,0,Healthy
+284,Female,50,29.7,161,79,148,212,92,Regular Exercise,0,Healthy
+285,Female,27,35.7,190,108,178,172,83,Regular Exercise,1,Diabetes
+286,Female,23,30.4,126,107,89,124,76,Insulin Therapy,0,Healthy
+287,Female,30,22.3,128,84,140,247,95,Insulin Therapy,0,Healthy
+288,Female,69,36.1,195,89,101,307,110,Diet Control,1,Diabetes
+289,Male,29,33.8,195,71,292,284,63,Medication,1,Diabetes
+290,Male,73,32.7,71,86,85,281,74,Diet Control,1,Diabetes
+291,Female,21,22.8,186,83,45,278,100,Regular Exercise,0,Healthy
+292,Female,22,18.1,175,60,23,255,106,Insulin Therapy,0,Healthy
+293,Male,22,29.0,180,111,106,147,66,Diet Control,0,Healthy
+294,Female,33,31.6,134,112,196,188,110,Medication,0,Healthy
+295,Female,44,39.1,187,96,139,298,74,Medication,1,Diabetes
+296,Female,62,39.8,78,65,222,217,84,Medication,0,Healthy
+297,Female,61,18.2,113,65,270,231,101,Medication,0,Healthy
+298,Male,54,38.2,128,73,258,189,62,Insulin Therapy,0,Healthy
+299,Male,55,30.4,78,71,176,124,73,Regular Exercise,0,Healthy
+300,Female,25,24.6,131,96,214,293,94,Regular Exercise,0,Healthy
